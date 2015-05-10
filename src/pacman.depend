@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1400088184 source:c:\users\firas\desktop\pac original\pacman\case.c
+	"case.h"
+	<stdio.h>
+
+1399839387 c:\users\firas\desktop\pac original\pacman\case.h
+
+1400269619 source:c:\users\firas\desktop\pac original\pacman\ennemi.c
+	"ennemi.h"
+	<stdio.h>
+	<time.h>
+
+1400176655 c:\users\firas\desktop\pac original\pacman\ennemi.h
+	"joueur.h"
+
+1400269531 c:\users\firas\desktop\pac original\pacman\joueur.h
+	"grille.h"
+
+1400270022 c:\users\firas\desktop\pac original\pacman\grille.h
+	"case.h"
+
+1400270165 source:c:\users\firas\desktop\pac original\pacman\grille.c
+	"grille.h"
+	<stdio.h>
+	"joueur.h"
+	<stdlib.h>
+
+1400269531 source:c:\users\firas\desktop\pac original\pacman\joueur.c
+	"joueur.h"
+	<stdio.h>
+
+1400270398 source:c:\users\firas\desktop\pac original\pacman\main.c
+	<stdio.h>
+	"case.h"
+	"grille.h"
+	"joueur.h"
+	"ennemi.h"
+	"menu.h"
+	<time.h>
+	<stdlib.h>
+
+1400087113 c:\users\firas\desktop\pac original\pacman\menu.h
+
+1400256715 source:c:\users\firas\desktop\pac original\pacman\menu.c
+	<stdio.h>
+	<stdlib.h>
+
